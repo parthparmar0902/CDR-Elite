@@ -25,13 +25,13 @@ deep quant
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/parthparmar0902/CDR-Elite/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/parthparmar/CDR-Elite/main/install.sh | bash
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/parthparmar0902/CDR-Elite.git
+git clone https://github.com/parthparmar/CDR-Elite.git
 cp -r CDR-Elite/skills/cdr-elite ~/.claude/skills/
 ```
 
@@ -80,4 +80,4 @@ Every CDR Elite response produces:
 
 ## Author
 
-Built by [parthparmar0902](https://github.com/parthparmar0902) for personal trading research on XAUUSD, BTC, ETH, SOL.
+Built by [parthparmar](https://github.com/parthparmar) for personal trading research on XAUUSD, BTC, ETH, SOL.

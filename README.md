@@ -50,13 +50,13 @@ USER QUERY
 **One-liner:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/parthparmar0902/CDR-Elite/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/parthparmar/CDR-Elite/main/install.sh | bash
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/parthparmar0902/CDR-Elite.git
+git clone https://github.com/parthparmar/CDR-Elite.git
 cp -r CDR-Elite/skills/cdr-elite ~/.claude/skills/
 ```
 
@@ -159,4 +159,4 @@ Every response produces:
 
 ## License
 
-[MIT](LICENSE) © [Parth Parmar](https://github.com/parthparmar0902)
+[MIT](LICENSE) © [Parth Parmar](https://github.com/parthparmar)
