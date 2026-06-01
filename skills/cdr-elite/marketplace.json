@@ -1,0 +1,8 @@
+{
+  "name": "cdr-elite",
+  "description": "Composite skill: Caveman + DeepResearch + QuantResearch fused into one execution layer. Produces institutional-grade quantitative research with compressed, high-density output. Trigger with: /cdr, cdr mode, elite research, deep quant research.",
+  "version": "1.0.0",
+  "author": "parth-parmar",
+  "tags": ["research", "quant", "trading", "deepresearch", "caveman", "compression", "institutional", "gold", "crypto", "xauusd"],
+  "repository": "https://github.com/parthparmar0902/CDR-Elite"
+}
