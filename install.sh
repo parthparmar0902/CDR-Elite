@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-REPO="parthparmar/CDR-Elite"
+REPO="parthparmar0902/CDR-Elite"
 BRANCH="main"
 RAW="https://raw.githubusercontent.com/$REPO/$BRANCH"
 SKILLS_DIR="$HOME/.claude/skills/cdr-elite"
