@@ -47,7 +47,13 @@ USER QUERY
 
 ## Installation
 
-Clone and copy the skill into your Claude Code skills directory:
+**One-liner:**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/parthparmar0902/CDR-Elite/main/install.sh | bash
+```
+
+Or manually:
 
 ```bash
 git clone https://github.com/parthparmar0902/CDR-Elite.git

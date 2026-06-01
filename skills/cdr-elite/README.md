@@ -25,6 +25,12 @@ deep quant
 ## Installation
 
 ```bash
+curl -fsSL https://raw.githubusercontent.com/parthparmar0902/CDR-Elite/main/install.sh | bash
+```
+
+Or manually:
+
+```bash
 git clone https://github.com/parthparmar0902/CDR-Elite.git
 cp -r CDR-Elite/skills/cdr-elite ~/.claude/skills/
 ```
