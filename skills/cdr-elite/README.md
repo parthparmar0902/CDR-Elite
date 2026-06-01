@@ -25,35 +25,9 @@ deep quant
 ## Installation
 
 ```bash
-npx skills add parth-parmar/cdr-elite
+git clone https://github.com/parthparmar0902/CDR-Elite.git
+cp -r CDR-Elite/skills/cdr-elite ~/.claude/skills/
 ```
-
-<details>
-<summary>bun</summary>
-
-```bash
-bunx skills add parth-parmar/cdr-elite
-```
-
-</details>
-
-<details>
-<summary>pnpm</summary>
-
-```bash
-pnpm dlx skills add parth-parmar/cdr-elite
-```
-
-</details>
-
-<details>
-<summary>Claude Code</summary>
-
-```
-/plugin install cdr-elite
-```
-
-</details>
 
 ## Intensity Modes
 
@@ -100,4 +74,4 @@ Every CDR Elite response produces:
 
 ## Author
 
-Built by [parth-parmar](https://github.com/parth-parmar) for personal trading research on XAUUSD, BTC, ETH, SOL.
+Built by [parthparmar0902](https://github.com/parthparmar0902) for personal trading research on XAUUSD, BTC, ETH, SOL.
